@@ -28,4 +28,4 @@ def validate_xml():
         return("The net sale calculated is not equal to the net sale retrieved from XML file")
 
 
-print(validate_XML())
+print(validate_xml())
